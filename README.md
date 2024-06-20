@@ -27,4 +27,4 @@
 若使用 GitHub 網頁進行 commit 會依次數扣分
 
 ## 作業連結
-- [儲存庫][(https://github.com/)](https://cleaning-box.onrender.com)
+- [儲存庫][(https://github.com/wer53077n/Cleaning-Box)]
